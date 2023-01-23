@@ -7,4 +7,5 @@ This site is built using [GitHub pages](https://pages.github.com/).
 
 We will add an image below
 
-![play your cards right](https://github.com/mungaig/docs-test/darts.jpg)
+![play your cards right](https://github.com/mungaig/docs_test/blob/new-feature/cards.jpg)
+
