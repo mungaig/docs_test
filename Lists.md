@@ -19,4 +19,4 @@ Task List
 - [x] Onboarding
 - [ ] Systems access
 - [ ] First project
-- [ ] \(for parenthesis) use '\' before '()'
+- [ ] \(for parenthesis) use 'forward slash' before '()'
